@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\Gui\Gui\MyForm.h(4758,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\user\Desktop\Gui\Gui\MyForm.h(4845,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\user\Desktop\Gui\Gui\MyForm.h(4879,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\user\Desktop\Gui\Gui\MyForm.h(4908,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\user\Desktop\Gui\Gui\MyForm.h(4953,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\user\Desktop\Gui\Gui\MyForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Gui.vcxproj -> C:\Users\user\Desktop\Gui\x64\Debug\Gui.exe
